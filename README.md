@@ -6,20 +6,21 @@
 
 `SEMESTRE: 3º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+A organização das finanças pessoais é um aspecto fundamental para garantir equilíbrio financeiro e uma tomada de decisões melhor no dia a dia, o avanço da tecnologia e o aumento do uso de aplicações digitais, ferramentas web têm se tornado cada vez mais importantes no controle de receitas e despesas.
+Este projeto propõe o desenvolvimento de uma solução web funcional e acessível denominada “Tio Patinhas”, que permite ao usuário registrar, categorizar e visualizar seus movimentos financeiros de maneira simples e intuitiva.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Isadora Silva Matos
+* Pedro Henrique Lyra Barbosa
+* André Bacelar Gonçalves
+* Raphael Caracci Bustamante
+* Wesley Azevedo Gomes
+* Igor Fernando Costa Cecílio
 
 ## Orientador
 
-* Nome completo do professor 
+* Joana Gabriela Ribeiro de Souza
 
 # Planejamento
 
