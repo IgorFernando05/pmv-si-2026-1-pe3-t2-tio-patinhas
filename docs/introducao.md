@@ -14,7 +14,14 @@ Dessa forma, o sistema propõe centralizar e organizar as informações financei
 
 ## 1.2. Objetivos do trabalho
 
-O objetivo principal deste projeto é o desenvolvimento de uma solução web funcional e acessível, denominada "Tio Patinhas", que permita ao usuário registrar, categorizar e visualizar seus movimentos financeiros de forma intuitiva, promovendo a educação financeira e a tomada de decisão consciente.
+O objetivo geral deste projeto é desenvolver uma aplicação web de gestão financeira pessoal — o "Tio Patinhas" — que seja funcional, acessível e capaz de apoiar o usuário no controle consciente de suas finanças, sem exigir conhecimentos técnicos prévios.
+
+Para isso, foram definidos os seguintes objetivos específicos:
+
+* __Projetar uma interface intuitiva:__ desenvolver uma navegação simples e objetiva, que torne o registro diário de receitas e despesas uma tarefa rápida e sem fricção para o usuário.
+* __Implementar categorização de transações:__ permitir que o usuário classifique seus gastos, facilitando a identificação de padrões de consumo e o entendimento de para onde o dinheiro está indo.
+* __Disponibilizar relatórios visuais:__ apresentar o fluxo financeiro por meio de gráficos e painéis claros, transformando dados brutos em informações úteis para a tomada de decisões.
+* __Estimular a educação financeira:__ oferecer um ambiente que vá além do simples registro — incentivando o planejamento e ajudando o usuário a construir hábitos financeiros mais saudáveis ao longo do tempo.
 
 ## 1.3. Justificativa
 
