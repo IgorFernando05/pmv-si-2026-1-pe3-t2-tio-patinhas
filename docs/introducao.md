@@ -2,9 +2,11 @@
 A organização das finanças pessoais é um aspecto fundamental para garantir equilíbrio financeiro e auxiliar na tomada de decisões no cotidiano. O controle adequado de receitas e despesas permite que indivíduos planejem melhor seus gastos, evitem endividamentos e tenham maior consciência sobre sua situação financeira (CERBASI, 2014).
 
 Com o avanço da tecnologia e a popularização de aplicações digitais, ferramentas web têm se tornado importantes aliadas no gerenciamento financeiro pessoal. Essas soluções permitem que usuários registrem, acompanhem e analisem suas movimentações financeiras de forma prática e organizada, facilitando a visualização de gastos e contribuindo para o desenvolvimento da educação financeira (BACEN, 2021).
+
 Nesse contexto, este projeto propõe o desenvolvimento de uma solução web funcional e acessível denominada “Tio Patinhas”, que permite ao usuário registrar, categorizar e visualizar suas movimentações financeiras de maneira simples e intuitiva. A ferramenta busca auxiliar no controle financeiro pessoal, contribuindo para uma melhor organização das finanças e para a tomada de decisões mais conscientes.
 
-Referências: CERBASI, Gustavo. Casais inteligentes enriquecem juntos. São Paulo: Editora Gente, 2014.
+Referências: 
+CERBASI, Gustavo. Casais inteligentes enriquecem juntos. São Paulo: Editora Gente, 2014.
 BANCO CENTRAL DO BRASIL (BACEN). Cidadania Financeira: educação financeira. Brasília: Banco Central do Brasil, 2021. Disponível em: https://www.bcb.gov.br
 Acesso em: 12 mar. 2026.
 CARVALHO, M. F.; SANTOS, N. M.; GREGÓRIO, J. L. SaveU Money: sistema de gerenciamento financeiro pessoal. 2024. Artigo de Graduação (Tecnologia em Análise e Desenvolvimento de Sistemas) – Faculdade de Tecnologia Prof. José Camargo, Jales, 2024.
