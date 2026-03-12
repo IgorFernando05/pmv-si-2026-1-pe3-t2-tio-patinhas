@@ -6,8 +6,7 @@
 
 `SEMESTRE: 3º`
 
-A organização das finanças pessoais é um aspecto fundamental para garantir equilíbrio financeiro e uma tomada de decisões melhor no dia a dia, o avanço da tecnologia e o aumento do uso de aplicações digitais, ferramentas web têm se tornado cada vez mais importantes no controle de receitas e despesas.
-Este projeto propõe o desenvolvimento de uma solução web funcional e acessível denominada “Tio Patinhas”, que permite ao usuário registrar, categorizar e visualizar seus movimentos financeiros de maneira simples e intuitiva.
+A organização das finanças pessoais é um aspecto fundamental para garantir equilíbrio financeiro e auxiliar na tomada de decisões no cotidiano. O controle adequado de receitas e despesas permite que indivíduos planejem melhor seus gastos, evitem endividamentos e tenham maior consciência sobre sua situação financeira (CERBASI, 2014).
 
 ## Integrantes
 
