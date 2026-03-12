@@ -3,7 +3,7 @@ A organização das finanças pessoais é um aspecto fundamental para garantir e
 
 Com o avanço da tecnologia e a popularização de aplicações digitais, ferramentas web têm se tornado importantes aliadas no gerenciamento financeiro pessoal. Essas soluções permitem que usuários registrem, acompanhem e analisem suas movimentações financeiras de forma prática e organizada, facilitando a visualização de gastos e contribuindo para o desenvolvimento da educação financeira (BACEN, 2021).
 
-Nesse contexto, este projeto propõe o desenvolvimento de uma solução web funcional e acessível denominada “Tio Patinhas”, que permite ao usuário registrar, categorizar e visualizar suas movimentações financeiras de maneira simples e intuitiva. A ferramenta busca auxiliar no controle financeiro pessoal, contribuindo para uma melhor organização das finanças e para a tomada de decisões mais conscientes.
+Diante desse cenário, este trabalho apresenta o desenvolvimento de uma aplicação web chamada “Tio Patinhas”, voltada ao controle de finanças pessoais, que permite ao usuário registrar, categorizar e visualizar suas movimentações financeiras de maneira simples e intuitiva. A ferramenta busca auxiliar no controle financeiro pessoal, contribuindo para uma melhor organização das finanças e para a tomada de decisões mais conscientes.
 
 Referências: 
 CERBASI, Gustavo. Casais inteligentes enriquecem juntos. São Paulo: Editora Gente, 2014.
