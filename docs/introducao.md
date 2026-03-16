@@ -5,11 +5,8 @@ Com o avanço da tecnologia e a popularização de aplicações digitais, ferram
 
 Diante desse cenário, este trabalho apresenta o desenvolvimento de uma aplicação web chamada “Tio Patinhas”, voltada ao controle de finanças pessoais, que permite ao usuário registrar, categorizar e visualizar suas movimentações financeiras de maneira simples e intuitiva. A ferramenta busca auxiliar no controle financeiro pessoal, contribuindo para uma melhor organização das finanças e para a tomada de decisões mais conscientes.
 
-Referências: 
-CERBASI, Gustavo. Casais inteligentes enriquecem juntos. São Paulo: Editora Gente, 2014.
-BANCO CENTRAL DO BRASIL (BACEN). Cidadania Financeira: educação financeira. Brasília: Banco Central do Brasil, 2021. Disponível em: https://www.bcb.gov.br
-Acesso em: 12 mar. 2026.
-CARVALHO, M. F.; SANTOS, N. M.; GREGÓRIO, J. L. SaveU Money: sistema de gerenciamento financeiro pessoal. 2024. Artigo de Graduação (Tecnologia em Análise e Desenvolvimento de Sistemas) – Faculdade de Tecnologia Prof. José Camargo, Jales, 2024.
+
+
 
 ## 1.1. Problema
 
