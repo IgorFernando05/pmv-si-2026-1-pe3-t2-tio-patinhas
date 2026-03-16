@@ -36,7 +36,7 @@ Este projeto propõe o desenvolvimento de uma solução web funcional e acessív
 
 # Código
 
-<li><a href="src/codigo.md"> Código Fonte</a></li>Configuração correta (ABNT básica)
+<li><a href="src/codigo.md"> Código Fonte</a></li>
 
 
 
