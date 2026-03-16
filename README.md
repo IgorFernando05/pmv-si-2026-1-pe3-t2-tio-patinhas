@@ -38,15 +38,7 @@ Este projeto propõe o desenvolvimento de uma solução web funcional e acessív
 
 <li><a href="src/codigo.md"> Código Fonte</a></li>Configuração correta (ABNT básica)
 
-Fonte: Arial
 
-Tamanho: 12
-
-Alinhamento: Justificado
-
-Espaçamento entre linhas: 1,5
-
-Recuo da primeira linha: 1,25 cm
 
 # Apresentação
 
