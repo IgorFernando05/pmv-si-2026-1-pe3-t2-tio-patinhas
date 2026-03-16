@@ -7,3 +7,8 @@ LIMA, Ruth Sândilla et al. The study of personal finances at the university lev
 
 Referência 2 — Monografia:
 FRANÇA, Lucas Santos. Finanças pessoais: uma análise da gestão financeira dos alunos do Centro de Ciências Sociais Aplicadas CCSA/UFS. 2021. Monografia (Graduação em Administração) – Departamento de Administração, Centro de Ciências Sociais Aplicadas, Universidade Federal de Sergipe, São Cristóvão, SE, 2021. Disponível em: https://ri.ufs.br/jspui/handle/riufs/15123. Acesso em: 5 mar. 2026.
+
+Referências 3 - CERBASI, Gustavo. Casais inteligentes enriquecem juntos. São Paulo: Editora Gente, 2014.
+BANCO CENTRAL DO BRASIL (BACEN). Cidadania Financeira: educação financeira. Brasília: Banco Central do Brasil, 2021. Disponível em: https://www.bcb.gov.br
+Acesso em: 12 mar. 2026.
+CARVALHO, M. F.; SANTOS, N. M.; GREGÓRIO, J. L. SaveU Money: sistema de gerenciamento financeiro pessoal. 2024. Artigo de Graduação (Tecnologia em Análise e Desenvolvimento de Sistemas) – Faculdade de Tecnologia Prof. José Camargo, Jales, 2024.
