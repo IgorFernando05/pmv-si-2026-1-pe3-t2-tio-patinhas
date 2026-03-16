@@ -1,7 +1,7 @@
 # 1. INTRODUÇÃO
-A organização das finanças pessoais é um aspecto fundamental para garantir equilíbrio financeiro e auxiliar na tomada de decisões no cotidiano. O controle adequado de receitas e despesas permite que indivíduos planejem melhor seus gastos, evitem endividamentos e tenham maior consciência sobre sua situação financeira (CERBASI, 2014).
+A organização das finanças pessoais é um aspecto fundamental para garantir equilíbrio financeiro e auxiliar na tomada de decisões no cotidiano. O controle adequado de receitas e despesas permite que indivíduos planejem melhor seus gastos, evitem endividamentos e tenham maior consciência sobre sua situação financeira (CERBASI, 2026).
 
-Com o avanço da tecnologia e a popularização de aplicações digitais, ferramentas web têm se tornado importantes aliadas no gerenciamento financeiro pessoal. Essas soluções permitem que usuários registrem, acompanhem e analisem suas movimentações financeiras de forma prática e organizada, facilitando a visualização de gastos e contribuindo para o desenvolvimento da educação financeira (BACEN, 2021).
+Com o avanço da tecnologia e a popularização de aplicações digitais, ferramentas web têm se tornado importantes aliadas no gerenciamento financeiro pessoal. Essas soluções permitem que usuários registrem, acompanhem e analisem suas movimentações financeiras de forma prática e organizada, facilitando a visualização de gastos e contribuindo para o desenvolvimento da educação financeira (BACEN, 2026).
 
 Diante desse cenário, este trabalho apresenta o desenvolvimento de uma aplicação web chamada “Tio Patinhas”, voltada ao controle de finanças pessoais, que permite ao usuário registrar, categorizar e visualizar suas movimentações financeiras de maneira simples e intuitiva. A ferramenta busca auxiliar no controle financeiro pessoal, contribuindo para uma melhor organização das finanças e para a tomada de decisões mais conscientes.
 
