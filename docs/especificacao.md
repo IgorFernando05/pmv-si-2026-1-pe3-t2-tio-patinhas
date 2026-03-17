@@ -56,7 +56,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 ## 3.4 Modelagem do Sistema
 
 ### 3.4.1 Diagrama de Casos de Uso
-Como observado no diagrama de casos de uso da Figura 1, a secretária poderá gerenciar as matrículas e professores no sistema, enquanto o coordenador, além dessas funções, poderá gerenciar os cursos de aperfeiçoamento.
+O diagrama de classes apresentado ilustra a estrutura do sistema SCCA, destacando as entidades Aluno, Matrícula, Curso e Professor, bem como seus atributos e relacionamentos. Através dele, é possível compreender como os dados são organizados e como ocorre o vínculo entre alunos e cursos por meio das matrículas, além da associação dos professores responsáveis por cada curso.
 
 #### Figura 1: Diagrama de Casos de Uso do Sistema.
 
@@ -65,7 +65,7 @@ Como observado no diagrama de casos de uso da Figura 1, a secretária poderá ge
  
 ### 3.4.2 Descrições de Casos de Uso
 
-Cada caso de uso deve ter a sua descrição representada nesta seção. Exemplo:
+Nesta seção são apresentadas as descrições dos principais casos de uso do sistema SCCA. Cada caso de uso detalha as funcionalidades disponíveis para os usuários, indicando como o sistema deve se comportar durante a execução de determinadas ações.
 
 #### Gerenciar Professor (CSU01)
 
