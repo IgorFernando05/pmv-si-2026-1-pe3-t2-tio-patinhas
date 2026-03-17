@@ -55,7 +55,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 
 ## 3.4 Modelagem do Sistema
 
-### 3.4.1 Diagrama de Classes do Sistema
+### 3.4.1 Diagrama de Classes do Sistema.
 O diagrama de classes apresentado ilustra a estrutura do sistema SCCA, destacando as entidades Aluno, Matrícula, Curso e Professor, bem como seus atributos e relacionamentos. A partir dele, é possível compreender como os dados são organizados e como ocorre o vínculo entre alunos e cursos por meio das matrículas, além da associação dos professores responsáveis por cada curso.
 
 #### Figura 1: Diagrama de Classes do Sistema.
