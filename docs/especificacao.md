@@ -113,21 +113,21 @@ d)	O Sistema apresenta os detalhes do professor no formulário de professores. <
 Pós-condições: Um professor foi inserido ou removido, seus dados foram alterados ou apresentados na tela.
 
 ### 3.4.3 Diagrama de Classes 
-
-A Figura 2 mostra o diagrama de classes do sistema. A Matrícula deve conter a identificação do funcionário responsável pelo registro, bem com os dados do aluno e turmas. Para uma disciplina podemos ter diversas turmas, mas apenas um professor responsável por ela.
+O diagrama de classes apresenta como o sistema SCCA está estruturado, mostrando as principais entidades envolvidas, como Aluno, Curso, Matrícula e Professor. Por meio dele, é possível visualizar os atributos de cada classe e como elas se relacionam entre si. Essas relações ajudam a entender como o sistema organiza as informações e como acontece o vínculo entre os alunos e os cursos, além da associação dos professores responsáveis.
 
 #### Figura 2: Diagrama de Classes do Sistema.
- 
-![image](https://github.com/user-attachments/assets/abc7591a-b46f-4ea2-b8f0-c116b60eb24e)
+ <img width="778" height="480" alt="image" src="https://github.com/user-attachments/assets/daabf545-13c4-4391-958f-ccad9e1155b6" />
+
+
 
 
 ### 3.4.4 Descrições das Classes 
+Nesta seção são descritas as principais classes do sistema SCCA, destacando suas funções dentro do sistema. Cada classe representa um conjunto de informações importantes para o funcionamento do sistema e contribui para o controle e organização dos dados
 
 | # | Nome | Descrição |
 |--------------------|------------------------------------|----------------------------------------|
-| 1	|	Aluno |	Cadastro de informações relativas aos alunos. |
-| 2	| Curso |	Cadastro geral de cursos de aperfeiçoamento. |
-| 3 |	Matrícula |	Cadastro de Matrículas de alunos nos cursos. |
-| 4 |	Turma |	Cadastro de turmas.
-| 5	|	Professor |	Cadastro geral de professores que ministram as disciplinas. |
+| 1	|	Aluno |	Armazena os dados dos alunos cadastrados no sistema. |
+| 2	| Curso |	Contém as informações dos cursos de aperfeiçoamento disponíveis. |
+| 3 |	Matrícula |	Representa o vínculo entre o aluno e o curso, registrando a matrícula realizada. |
+| 4|	Professor |	Guarda as informações dos professores responsáveis pelos cursos.|
 | ... |	... |	... |
