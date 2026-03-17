@@ -56,7 +56,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 ## 3.4 Modelagem do Sistema
 
 ### 3.4.1 Diagrama de Casos de Uso.
-O diagrama de casos de uso apresenta as principais funcionalidades do sistema SCCA e os usuários que interagem com ele. A secretária possui acesso às funções relacionadas ao gerenciamento de alunos, professores e matrículas. Já o coordenador, além dessas funcionalidades, também é responsável pelo gerenciamento dos cursos de aperfeiçoamento. Dessa forma, o sistema organiza as permissões de acordo com o perfil de cada usuário.
+O diagrama de casos de uso mostra, de forma geral, como o sistema SCCA funciona e quem pode utilizar cada função. Nele, é possível ver que a secretária tem acesso às tarefas de gerenciamento de alunos, professores e matrículas. Já o coordenador, além dessas funções, também pode gerenciar os cursos de aperfeiçoamento. Assim, o sistema organiza as permissões de acordo com o tipo de usuário, facilitando o controle e o uso das funcionalidades.
 
 #### Figura 1: Diagrama de Casos de Uso.
 <img width="924" height="613" alt="image" src="https://github.com/user-attachments/assets/a2112479-2940-46c3-8b05-d2d1b63fc4f8" />
@@ -65,7 +65,7 @@ O diagrama de casos de uso apresenta as principais funcionalidades do sistema SC
 
 
 ### 3.4.2 Descrição dos Casos de Uso
-Nesta seção é apresentada a descrição do diagrama de classes do sistema SCCA. O diagrama mostra as principais entidades do sistema, como Aluno, Matrícula, Curso e Professor, além de seus atributos e relacionamentos. A partir dele, é possível compreender como os dados são organizados e como essas entidades se conectam, permitindo o funcionamento do sistema de forma integrada.
+O diagrama de casos de uso mostra, de forma simples, como o sistema SCCA funciona no dia a dia e quem pode usar cada função. Nele, dá pra ver que a secretária cuida do gerenciamento de alunos, professores e matrículas. Já o coordenador, além dessas funções, também pode gerenciar os cursos. Assim, o sistema organiza o que cada usuário pode fazer, facilitando o uso e mantendo tudo mais organizado.
 
 #### Gerenciar Professor (CSU01)
 
