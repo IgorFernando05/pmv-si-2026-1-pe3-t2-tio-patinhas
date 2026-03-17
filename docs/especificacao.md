@@ -63,9 +63,9 @@ O diagrama de classes apresentado ilustra a estrutura do sistema SCCA, destacand
 <img width="775" height="483" alt="image" src="https://github.com/user-attachments/assets/bd2dad07-6daf-4b87-af59-04a042d7da03" />
 
  
-### 3.4.2 Descrições de Casos de Uso
+### 3.4.2 Descrição do Diagrama de Classes
 
-Nesta seção são apresentadas as descrições dos principais casos de uso do sistema SCCA. Cada caso de uso detalha as funcionalidades disponíveis para os usuários, indicando como o sistema deve se comportar durante a execução de determinadas ações.
+Nesta seção é apresentada a descrição do diagrama de classes do sistema SCCA. O diagrama mostra as principais entidades do sistema, como Aluno, Matrícula, Curso e Professor, além de seus atributos e relacionamentos. A partir dele, é possível compreender como os dados são organizados e como essas entidades se conectam, permitindo o funcionamento do sistema de forma integrada.
 
 #### Gerenciar Professor (CSU01)
 
