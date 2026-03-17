@@ -56,7 +56,7 @@ O SCCA não fornece nenhuma forma de avaliação de alunos, pagamento de parcela
 ## 3.4 Modelagem do Sistema
 
 ### 3.4.1 Diagrama de Casos de Uso.
-O diagrama de casos de uso mostra, de forma geral, como o sistema SCCA funciona e quem pode utilizar cada função. Nele, é possível ver que a secretária tem acesso às tarefas de gerenciamento de alunos, professores e matrículas. Já o coordenador, além dessas funções, também pode gerenciar os cursos de aperfeiçoamento. Assim, o sistema organiza as permissões de acordo com o tipo de usuário, facilitando o controle e o uso das funcionalidades.
+O diagrama de casos de uso apresenta, de forma geral, como o sistema SCCA funciona e quais usuários utilizam cada funcionalidade. Nele, é possível observar que a secretária é responsável pelo gerenciamento de alunos, professores e matrículas. Já o coordenador, além dessas funções, também pode gerenciar os cursos de aperfeiçoamento. Dessa forma, o sistema organiza as permissões de acordo com o perfil de cada usuário, facilitando o uso das funcionalidades.
 
 #### Figura 1: Diagrama de Casos de Uso.
 <img width="924" height="613" alt="image" src="https://github.com/user-attachments/assets/a2112479-2940-46c3-8b05-d2d1b63fc4f8" />
@@ -65,7 +65,7 @@ O diagrama de casos de uso mostra, de forma geral, como o sistema SCCA funciona 
 
 
 ### 3.4.2 Descrição dos Casos de Uso
-O diagrama de casos de uso mostra, de forma simples, como o sistema SCCA funciona no dia a dia e quem pode usar cada função. Nele, dá pra ver que a secretária cuida do gerenciamento de alunos, professores e matrículas. Já o coordenador, além dessas funções, também pode gerenciar os cursos. Assim, o sistema organiza o que cada usuário pode fazer, facilitando o uso e mantendo tudo mais organizado.
+Nesta seção é apresentada a descrição dos casos de uso do sistema SCCA. A partir do diagrama, é possível entender de maneira mais simples como o sistema funciona no dia a dia e quais ações cada usuário pode realizar. A secretária realiza o controle de alunos, professores e matrículas, enquanto o coordenador também é responsável pelo gerenciamento dos cursos. Assim, o sistema distribui as funções conforme o tipo de usuário, tornando sua utilização mais organizada.
 
 #### Gerenciar Professor (CSU01)
 
