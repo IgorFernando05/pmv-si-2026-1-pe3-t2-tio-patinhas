@@ -16,8 +16,6 @@ Referência 4 - LUSARDI; MITCHELL (2023):
 LUSARDI, Annamaria; MITCHELL, Olivia S.
 The importance of financial literacy: opening a new field. Journal of Economic Perspectives, v. 27, n. 4, p. 137–154, 2023.
 
-Referência 5 -LUSARDI, Annamaria; MITCHELL, Olivia S.
-The importance of financial literacy: opening a new field. Cambridge: National Bureau of Economic Research (NBER), 2023.
-Acesso ao artigo:
-Abrir PDF oficial (NBER) 
-
+Referência 5 - OCDE(2023):
+ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT (OECD).
+OECD/INFE 2023 International Survey of Adult Financial Literacy. Paris: OECD Publishing, 2023.
