@@ -10,11 +10,10 @@ FRANÇA, Lucas Santos. Finanças pessoais: uma análise da gestão financeira do
 
 Referências 3 - BACEN, 2024:
 BANCO CENTRAL DO BRASIL. Cidadania Financeira: Relatório de Inclusão Financeira. Brasília: Banco Central do Brasil, 2024. Disponível em: https://www.bcb.gov.br
-. Acesso em: 16 mar. 2026.
+
 
 Referência 4 - LUSARDI, Annamaria; MITCHELL, Olivia S.
 The importance of financial literacy: opening a new field. Cambridge: National Bureau of Economic Research, 2023. Disponível em: https://www.nber.org/papers/w31145
-. Acesso em: 23 mar. 2026.
 
 Referência 5 - ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT (OECD).
-OECD/INFE 2023 International Survey of Adult Financial Literacy. Paris: OECD Publishing, 2023. Disponível em: https://www.oecd.org/en/publications/oecd-infe-2023-international-survey-of-adult-financial-literacy_56003a32-en.html. Acesso em: 23 mar. 2026.
+OECD/INFE 2023 International Survey of Adult Financial Literacy. Paris: OECD Publishing, 2023. Disponível em: https://www.oecd.org/en/publications/oecd-infe-2023-international-survey-of-adult-financial-literacy_56003a32-en.html
